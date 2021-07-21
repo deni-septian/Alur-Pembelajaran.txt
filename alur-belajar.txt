@@ -12,6 +12,8 @@ mempelajari forn end
 -JAVA SCRIEP
 Mempelajari visio templet code
 -css
+mempelajari kegagalan dan semua kekurangan bahsa program 
+perbanyak pengetahuan untuk mengembangangkan website 
 mempelajari MSQL
 konversi antara Fron End dan Back End
 Mempelajari Hosting

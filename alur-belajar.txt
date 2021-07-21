@@ -1,0 +1,15 @@
+# Alur-Pembelajaran.txt
+tahapan belajar yang harus dikuasai dari Fron END dan Back END
+# Terget_Belajar
+Target/tahapan belajar dari fron end dan Back End
+mempelajari back end
+-pyhton
+mempelajari forn end
+-HTML
+-CSS
+-JAVA SCRIEP
+Mempelajari visio templet code
+-css
+mempelajari MSQL
+Mempelajari Hosting
+

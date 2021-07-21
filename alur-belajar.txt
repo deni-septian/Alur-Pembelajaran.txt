@@ -15,6 +15,8 @@ Mempelajari visio templet code
 mempelajari kegagalan dan semua kekurangan bahsa program 
 perbanyak pengetahuan untuk mengembangangkan website 
 mempelajari MSQL
+   -memoelajari struktur data 
+   -mempeljari jenis-jenis data
 konversi antara Fron End dan Back End
 Mempelajari Hosting
 

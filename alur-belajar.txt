@@ -13,7 +13,11 @@ mempelajari forn end
 Mempelajari visio templet code
 -css
 mempelajari kegagalan dan semua kekurangan bahsa program 
+- memperbanyak belajar dengan orang yang sudah berpengalaman
+-mencari tempat website/sumber belajar program
 perbanyak pengetahuan untuk mengembangangkan website 
+    - perbanyak membaca buku 
+    -perbanyak bergabungan dengan komunitas programmers
 mempelajari MSQL
 konversi antara Fron End dan Back End
 Mempelajari Hosting

@@ -4,6 +4,8 @@ tahapan belajar yang harus dikuasai dari Fron END dan Back END
 Target/tahapan belajar dari fron end dan Back End
 mempelajari back end
 -pyhton
+-java
+-php
 mempelajari forn end
 -HTML
 -CSS
@@ -11,5 +13,6 @@ mempelajari forn end
 Mempelajari visio templet code
 -css
 mempelajari MSQL
+konversi antara Fron End dan Back End
 Mempelajari Hosting
 

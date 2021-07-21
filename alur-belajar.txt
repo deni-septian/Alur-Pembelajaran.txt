@@ -19,6 +19,8 @@ perbanyak pengetahuan untuk mengembangangkan website
     - perbanyak membaca buku 
     -perbanyak bergabungan dengan komunitas programmers
 mempelajari MSQL
+   -memoelajari struktur data 
+   -mempeljari jenis-jenis data
 konversi antara Fron End dan Back End
 Mempelajari Hosting
 
